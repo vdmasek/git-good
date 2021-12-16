@@ -1,0 +1,19 @@
+# GIT
+
+1. https://www.youtube.com/watch?v=USjZcfj8yxE
+2. https://www.youtube.com/watch?v=HVsySz-h9r4
+3. https://endava-my.sharepoint.com/:v:/p/alexandruandrei_paraschiv/EXzG5hMCXyNHqAYmEzt27dABKLvzG-_oPEYBfNvKjILw5Q
+
+# GoLang
+
+1. https://www.youtube.com/watch?v=CF9S4QZuV30
+2. https://www.youtube.com/watch?v=SqrbIlUwR0U
+3. https://www.youtube.com/watch?v=9cV1KESTJRc
+4. https://gobyexample.com/
+
+# AGILE
+
+1. https://confluence.endava.com/display/public/TEAM/TEAS+Interaction+Model
+2. https://geshan.com.np/blog/2020/09/agile-software-development/
+3. https://medium.com/hygger-io/agile-for-non-techies-how-to-explain-it-clearly-25a03bda9ac5
+4. https://www.perforce.com/resources/hns/agile-development-explained-agile-developer
