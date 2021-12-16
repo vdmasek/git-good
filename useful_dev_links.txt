@@ -10,6 +10,7 @@
 2. https://www.youtube.com/watch?v=SqrbIlUwR0U
 3. https://www.youtube.com/watch?v=9cV1KESTJRc
 4. https://gobyexample.com/
+5. https://endavace1.udemy.com/course/go-the-complete-developers-guide/learn
 
 # AGILE
 
