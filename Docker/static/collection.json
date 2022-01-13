@@ -1,0 +1,13 @@
+{
+    "productlist":[
+    {
+        "id":1,
+        "name":"Parfumes1",
+        "quantity":1
+    },
+    {
+        "id":2,
+        "name":"Parfumes2",
+        "quantity":2
+    }]
+}
